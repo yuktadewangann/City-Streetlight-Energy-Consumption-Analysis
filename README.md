@@ -12,7 +12,6 @@ This project analyzes **city streetlight energy consumption data** using **Pytho
 * Identify **peak energy usage hours**
 * Highlight the **top 3 peak consumption periods**
 * Visualize consumption trends using line plots
-* Provide insights for **energy optimization and smart city planning**
 
 ---
 
