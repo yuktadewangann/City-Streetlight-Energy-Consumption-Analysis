@@ -2,10 +2,7 @@
 
 ## 📌 Project Overview
 
-Urban street lighting systems consume a significant amount of electrical energy. Efficient energy management is essential for smart city development.
-This project analyzes **city streetlight energy consumption data** using **Python and Pandas** to identify **peak usage hours**, understand consumption patterns, and suggest optimization opportunities.
-
-This project is developed as part of **Minor-1 (Data Analytics using Pandas)**.
+This project analyzes **city streetlight energy consumption data** using **Python and Pandas** to identify **peak usage hours**, understand consumption patterns.
 
 ---
 
@@ -75,12 +72,11 @@ This project is developed as part of **Minor-1 (Data Analytics using Pandas)**.
 
 The project successfully identifies peak energy consumption hours in city streetlight systems.
 The results highlight the importance of **data-driven decision making** in smart city energy management.
-By applying data analytics techniques, cities can optimize streetlight operations, reduce power wastage, and promote sustainable urban development.
 
 ---
 
 ## 📎 Project Files
 
-* `finalProject_3_structured.ipynb` – Final analysis notebook
+* `file.ipynb` – Final analysis notebook
 * `intelligent_streetlight_dataset.csv` – Dataset
 * `README.md` – Project documentation
